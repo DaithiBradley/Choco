@@ -1,3 +1,20 @@
 choco install adobereader -y 
-choco -y vcredist140 -y 
-7zip.install -y notepadplusplus.install -y vlc -y filezilla -y putty -y k-litecodecpackfull winscp.install -y dropbox -y spotify -y git -y notepadplusplus.install -y github-desktop -y bitwarden -y choco install open-shell -y mysql.workbench -y flyspeed-sql-query -y
+choco -y 
+vcredist140 -y 
+7zip.install -y 
+notepadplusplus.install -y 
+vlc -y 
+filezilla -y 
+putty -y 
+k-litecodecpackfull 
+winscp.install -y 
+dropbox -y 
+spotify -y 
+git -y 
+notepadplusplus.install -y 
+github-desktop -y 
+bitwarden -y 
+choco install open-shell -y 
+mysql.workbench -y 
+flyspeed-sql-query -y
+zulip -y
