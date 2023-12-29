@@ -14,7 +14,6 @@ git -y
 notepadplusplus.install -y 
 github-desktop -y 
 bitwarden -y 
-choco install open-shell -y 
 mysql.workbench -y 
 flyspeed-sql-query -y
 zulip -y
